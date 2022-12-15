@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "http": {
+    "Discount.API": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
